@@ -75,30 +75,10 @@ heart_disease_app/
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation & Run Locally
-1️⃣ Clone the repository
-git clone https://github.com/your-username/heart-disease-streamlit.git
-cd heart-disease-streamlit
 
-2️⃣ Install dependencies
-pip install -r requirements.txt
 
-3️⃣ Run the app
-streamlit run app.py
 
-📦 Deployment
 
-The app is deployed using Streamlit Cloud and the source code is hosted on GitHub.
-
-Steps:
-
-Push code to GitHub
-
-Connect GitHub repo to Streamlit Cloud
-
-Select app.py as the main file
-
-Deploy 🚀
 
 📈 Future Improvements
 
